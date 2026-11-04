@@ -2,11 +2,11 @@ body {
   background-color: black;
   padding-left: 40px;
   padding-right: 40px;
-  font-size: 200%;
 }
 
 p {
   color: white;
+  font-size: 10vw;
 }
 
 h1 {
